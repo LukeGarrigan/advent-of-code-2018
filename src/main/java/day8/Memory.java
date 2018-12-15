@@ -6,37 +6,62 @@ import java.util.List;
 public class Memory {
 
 
+    /*  2 3 0 3 10 11 12 1 1 0 1 99 2 1 1 2
+       A----------------------------------
+           B----------- C-----------
+                            D-----
 
- /*   2 3 0 3 10 11 12 1 1 0 1 99 2 1 1 2
-      A----------------------------------
-          B----------- C-----------
-                           D-----
+     */
+    private int index = 0;
 
-    */
+    public int partOne(int[] numbers) {
+        int sum = 0;
+        int numberOfChildren = numbers[index];
+        int numberOfMetaData = numbers[index + 1];
+
+        index += 2;
+        for (int i = 0; i < numberOfChildren; i++) {
+            sum += partOne(numbers);
+        }
+        for (int i = 0; i < numberOfMetaData; i++) {
+            sum += numbers[index];
+            index++;
+        }
+
+        return sum;
+    }
 
 
-    public List<Node> processData(int[] numbers) {
+    public Node partTwo(int[] numbers) {
+        Node node = new Node();
+        int numberOfChildren = numbers[index];
+        int numberOfMetaData = numbers[index + 1];
 
-        int i = 0;
-        Node parent = null;
-        while(i < numbers.length) {
-            int numberOfChildren = numbers[i];
-            int numberOfMetaData = numbers[i+1];
-
-            Node node = new Node(numberOfChildren, numberOfMetaData, 0, parent);
-            parent = node;
-
-            if (numberOfChildren == 0) {
-                for (int j = i+2; j < i + node.getMetaCount()+2; j++) {
-                    node.addMetaData(numbers[j]);
+        index += 2;
+        if (numberOfChildren == 0) {
+            for (int i = 0; i < numberOfMetaData; i++) {
+                node.addToValue(numbers[index]);
+                index++;
+            }
+        } else {
+            List<Node> children = new ArrayList<>();
+            for (int i = 0; i < numberOfChildren; i++) {
+                Node childNode = partTwo(numbers);
+                children.add(childNode);
+            }
+            for (int i = 0; i < numberOfMetaData; i++) {
+                if (numbers[index]-1 < children.size()) {
+                    node.addToValue(children.get(numbers[index]-1).getValue());
                 }
-                i += 2 + node.getMetaCount();
-            } else {
-                i += 2;
+                index++;
             }
 
+
         }
-        return new ArrayList<>();
+
+        return node;
+
+
     }
 
 
@@ -51,7 +76,6 @@ public class Memory {
         }
         return numbers;
     }
-
 
 
 }
