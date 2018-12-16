@@ -6,21 +6,21 @@ import java.util.List;
 public class MarbleGame {
 
 
-    public int doPartOne(String input) {
+    public long doPartOne(String input) {
         int numberOfPlayers = getNumberOfPlayers(input);
         int lastPoints = getLastMarblePoints(input);
 
         return findHighestScore(numberOfPlayers, lastPoints);
     }
 
-    public int findHighestScore(int numberOfPlayers, int lastPoints) {
-        int[] playersScores = new int[numberOfPlayers];
-        List<Integer> board = new ArrayList<>();
-        board.add(0);
-        board.add(1);
+    public long findHighestScore(int numberOfPlayers, int lastPoints) {
+        long[] playersScores = new long[numberOfPlayers];
+        List<Long> board = new ArrayList<>();
+        board.add(0L);
+        board.add(1L);
         int index = 1;
         int moves = 1;
-        for (int i = 2; i <= lastPoints; i++) {
+        for (long i = 2; i <= lastPoints; i++) {
             moves++;
             int currentPlayerIndex = moves % numberOfPlayers;
             if (i % 23 == 0) {
@@ -46,8 +46,8 @@ public class MarbleGame {
 
 
 
-        int highestScore = Integer.MIN_VALUE;
-        for (int playersScore : playersScores) {
+        long highestScore = Integer.MIN_VALUE;
+        for (long playersScore : playersScores) {
             if (playersScore > highestScore) {
                 highestScore = playersScore;
             }

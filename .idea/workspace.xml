@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b62188-46fa-4575-9d4c-3aea95df9200" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day9/data.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" afterPath="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +18,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MarbleGame.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MarbleGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="399">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2172#2173#0" expanded="true" />
-                <element signature="e#2255#2256#0" expanded="true" />
+                <element signature="e#2178#2179#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/day9/data.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -94,9 +92,9 @@
         <option value="$PROJECT_DIR$/src/main/java/day8/Memory.java" />
         <option value="$PROJECT_DIR$/src/test/java/day8/MemoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/day9/Marble.java" />
-        <option value="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
         <option value="$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/day9/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
       </list>
     </option>
   </component>
@@ -481,17 +479,11 @@
       <updated>1544892577930</updated>
       <workItem from="1544892581737" duration="11424000" />
       <workItem from="1544904208876" duration="1826000" />
-      <workItem from="1544978964777" duration="1517000" />
+      <workItem from="1544978964777" duration="4629000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 06m 35s.xml">
-      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 07m 37s.xml">
-      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 07m 44s.xml">
       <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
@@ -513,16 +505,21 @@
     <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 14m 12s.xml">
       <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarbleGameTest_testWithTheirData2 - 2018.12.16 at 17h 03m 48s.xml">
-      <configuration name="MarbleGameTest.testWithTheirData2" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 14m 44s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 18h 39m 16s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 21h 50m 58s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14767000" />
+    <option name="totallyTimeSpent" value="17879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Azure Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -543,7 +540,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="HDInsight Spark Submission" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.602333" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34464476" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -628,8 +625,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -660,8 +657,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -701,12 +698,12 @@
         <state relative-caret-position="231">
           <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="false" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#190#191#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -716,7 +713,7 @@
         <state relative-caret-position="205">
           <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -749,23 +746,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/day9/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
