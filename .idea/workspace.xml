@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java" line="32" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b62188-46fa-4575-9d4c-3aea95df9200" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day8/data.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/lukegarrigan.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day9/data.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day8/Memory.java" afterPath="$PROJECT_DIR$/src/main/java/day8/Memory.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day8/Node.java" afterPath="$PROJECT_DIR$/src/main/java/day8/Node.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day8/MemoryTest.java" afterPath="$PROJECT_DIR$/src/test/java/day8/MemoryTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day8/Memory.class" afterPath="$PROJECT_DIR$/target/classes/day8/Memory.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day8/Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day8/MemoryTest.class" afterPath="$PROJECT_DIR$/target/test-classes/day8/MemoryTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,44 +19,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Memory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/day8/Memory.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MarbleGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="462">
+              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2172#2173#0" expanded="true" />
+                <element signature="e#2255#2256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/day8/Node.java">
+      <file leaf-file-name="MarbleGameTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="508">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemoryTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/day8/MemoryTest.java">
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/day9/data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +61,8 @@
       <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/day8/data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="34848" lean-forward="true" selection-start-line="0" selection-start-column="34848" selection-end-line="0" selection-end-column="34848" />
+            <state relative-caret-position="678">
+              <caret line="0" column="34848" lean-forward="false" selection-start-line="0" selection-start-column="34848" selection-end-line="0" selection-end-column="34848" />
               <folding />
             </state>
           </provider>
@@ -87,6 +73,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -106,6 +93,10 @@
         <option value="$PROJECT_DIR$/src/main/java/day8/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/day8/Memory.java" />
         <option value="$PROJECT_DIR$/src/test/java/day8/MemoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day9/Marble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day9/MarbleGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/day9/data.txt" />
       </list>
     </option>
   </component>
@@ -136,8 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +166,14 @@
               <item name="adventofcode2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="advent-of-code-2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventofcode2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent-of-code-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,6 +190,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="day8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventofcode2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent-of-code-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,6 +217,18 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="day9" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MemoryTest.testPartTwoWithActualTestData">
+  <component name="RunManager" selected="JUnit.MarbleGameTest.testActualData">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -245,18 +264,18 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="MemoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarbleGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="adventofcode2018" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day8" />
-      <option name="MAIN_CLASS_NAME" value="day8.MemoryTest" />
+      <option name="PACKAGE_NAME" value="day9" />
+      <option name="MAIN_CLASS_NAME" value="day9.MarbleGameTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -270,18 +289,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MemoryTest.testActualData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarbleGameTest.testActualData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="adventofcode2018" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day8" />
-      <option name="MAIN_CLASS_NAME" value="day8.MemoryTest" />
+      <option name="PACKAGE_NAME" value="day9" />
+      <option name="MAIN_CLASS_NAME" value="day9.MarbleGameTest" />
       <option name="METHOD_NAME" value="testActualData" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -295,19 +314,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MemoryTest.testPartTwoWithActualTestData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarbleGameTest.testPartOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="adventofcode2018" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day8" />
-      <option name="MAIN_CLASS_NAME" value="day8.MemoryTest" />
-      <option name="METHOD_NAME" value="testPartTwoWithActualTestData" />
+      <option name="PACKAGE_NAME" value="day9" />
+      <option name="MAIN_CLASS_NAME" value="day9.MarbleGameTest" />
+      <option name="METHOD_NAME" value="testPartOne" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -320,19 +339,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MemoryTest.testPartTwoWithTheirTestData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarbleGameTest.testWithTheirData1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="adventofcode2018" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day8" />
-      <option name="MAIN_CLASS_NAME" value="day8.MemoryTest" />
-      <option name="METHOD_NAME" value="testPartTwoWithTheirTestData" />
+      <option name="PACKAGE_NAME" value="day9" />
+      <option name="MAIN_CLASS_NAME" value="day9.MarbleGameTest" />
+      <option name="METHOD_NAME" value="testWithTheirData1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -345,19 +364,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MemoryTest.testProcessData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarbleGameTest.testWithTheirData2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="adventofcode2018" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day8" />
-      <option name="MAIN_CLASS_NAME" value="day8.MemoryTest" />
-      <option name="METHOD_NAME" value="testProcessData" />
+      <option name="PACKAGE_NAME" value="day9" />
+      <option name="MAIN_CLASS_NAME" value="day9.MarbleGameTest" />
+      <option name="METHOD_NAME" value="testWithTheirData2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -431,19 +450,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MemoryTest.testProcessData" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MemoryTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MemoryTest.testActualData" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MemoryTest.testPartTwoWithTheirTestData" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MemoryTest.testPartTwoWithActualTestData" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testPartOne" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testWithTheirData1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testWithTheirData2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MarbleGameTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testActualData" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MemoryTest.testPartTwoWithActualTestData" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MemoryTest.testPartTwoWithTheirTestData" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MemoryTest.testActualData" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MemoryTest.testProcessData" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MemoryTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testActualData" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testWithTheirData2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testWithTheirData1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MarbleGameTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MarbleGameTest.testPartOne" />
       </list>
     </recent_temporary>
   </component>
@@ -460,44 +479,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544892577930</updated>
-      <workItem from="1544892581737" duration="8171000" />
+      <workItem from="1544892581737" duration="11424000" />
+      <workItem from="1544904208876" duration="1826000" />
+      <workItem from="1544978964777" duration="1517000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MemoryTest_testActualData - 2018.12.15 at 18h 16m 01s.xml">
-      <configuration name="MemoryTest.testActualData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 06m 35s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithActualTestData - 2018.12.15 at 19h 05m 43s.xml">
-      <configuration name="MemoryTest.testPartTwoWithActualTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 07m 37s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithActualTestData - 2018.12.15 at 19h 05m 51s.xml">
-      <configuration name="MemoryTest.testPartTwoWithActualTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 07m 44s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithActualTestData - 2018.12.15 at 19h 05m 58s.xml">
-      <configuration name="MemoryTest.testPartTwoWithActualTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 08m 40s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 18h 26m 48s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 08m 57s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 18h 41m 48s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 09m 21s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 18h 54m 50s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 09m 35s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 18h 59m 05s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 12m 30s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 19h 02m 48s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testActualData - 2018.12.16 at 17h 14m 12s.xml">
+      <configuration name="MarbleGameTest.testActualData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemoryTest_testPartTwoWithTheirTestData - 2018.12.15 at 19h 04m 43s.xml">
-      <configuration name="MemoryTest.testPartTwoWithTheirTestData" configurationId="JUnit" />
+    <history-entry file="MarbleGameTest_testWithTheirData2 - 2018.12.16 at 17h 03m 48s.xml">
+      <configuration name="MarbleGameTest.testWithTheirData2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8171000" />
+    <option name="totallyTimeSpent" value="14767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -521,19 +542,19 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="HDInsight Spark Submission" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42841995" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.602333" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Spark Job in Cluster" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Remote Spark Job in Cluster" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -587,23 +608,88 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>231231 % numberOfPlayers</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/day8/data.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day8/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="0" column="34848" lean-forward="false" selection-start-line="0" selection-start-column="34848" selection-end-line="0" selection-end-column="34848" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day8/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
           <caret line="0" column="34848" lean-forward="true" selection-start-line="0" selection-start-column="34848" selection-end-line="0" selection-end-column="34848" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/day8/Memory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/day8/MemoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="689">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -625,13 +711,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/day8/MemoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/day8/Memory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="205">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day8/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="0" column="34848" lean-forward="false" selection-start-line="0" selection-start-column="34848" selection-end-line="0" selection-end-column="34848" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day9/data/txt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day9/MarbleGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day9/MarbleGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day9/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
